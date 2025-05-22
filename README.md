@@ -140,7 +140,7 @@ My name is **Khor Li Chuan**, I am a self-taught full-stack web developer with a
 
 ## 🔭 I'm currently working on
 
-I'm currently in the process of updating my portfolio, which I haven’t maintained for a while. Alongside that, I’ve been catching up on newer technologies that I haven’t had the chance to work with before — including Next.js and others — to broaden my skill set and stay current with industry trends.
+I'm currently in the process of updating my portfolio, which I haven’t maintained for a while. Alongside that, I’ve been catching up on newer technologies that I haven’t had the chance to work with before to broaden my skill set and stay current with industry trends.
 
 ## 📈 Stats
 
